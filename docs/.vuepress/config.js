@@ -21,14 +21,18 @@ module.exports = {
         link: '/examples/'
       },
       {
-        text: 'VuePress',
-        link: 'https://v1.vuepress.vuejs.org'
-      }
+        text: 'Test',
+        link: '/test/'
+      },
     ],
     footer: [
       {
         text: 'Examples page',
         link: '/examples/'
+      },
+      {
+        text: 'Test',
+        link: '/test/'
       },
     ],
     sidebar: {

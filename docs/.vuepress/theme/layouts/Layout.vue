@@ -1,5 +1,7 @@
 <template>
   <Layout>
+    <template slot="page-bottom">
+    </template>
   </Layout>
 </template>
 

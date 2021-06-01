@@ -4,7 +4,7 @@ npm i
 ```
 2. run dev
 ```npm
-npm run serve
+npm run dev
 ```
 VuePress will start a hot-reloading development server at http://localhost:8080
 
